@@ -1,0 +1,8 @@
+transformers
+sentence-transformers
+datasets
+pandas
+numpy
+torch
+datetime
+tqdm
